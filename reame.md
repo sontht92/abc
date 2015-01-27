@@ -1,1 +1,1 @@
-try master and develop
+try develop
